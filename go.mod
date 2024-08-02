@@ -1,4 +1,4 @@
-module farmework
+module github.com/wangshuaiyi1/day15
 
 go 1.22
 
